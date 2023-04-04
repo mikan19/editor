@@ -1,2 +1,4 @@
-<?php
-echo 'Welcome TECH QUEST!';
+
+エディター分割のショートカットキー(Mac)
+
+ctrl + option + cmd + ¥
